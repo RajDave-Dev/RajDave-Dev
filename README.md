@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdave-dev&label=Profile%20views&color=00ff00&style=plastic" alt="rajdave-dev" /> </p>
 
-- 🔭 I’m currently working on **Sera**
+- 🔭 I’m currently working on a project to on AI. 
 
 - 📫 How to reach me **rajdave.developer@gmail.com**
 
