@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Skills
+<!--## 🛠️ Skills
 
 ### 🔤 Languages
 <p align="center">
@@ -111,13 +111,13 @@
 ## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=RajDave-Dev&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajDave-Dev&layout=compact&theme=tokyonight" height="180"/>
-</p-->
+</p
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RajDave-Dev&theme=tokyonight&hide_border=true" alt="RajDave-Dev's streak"/>
+  <img src="?user=RajDave-Dev&theme=tokyonight&hide_border=true" alt="RajDave-Dev's streak"/>
 </p>
 
----
+--->
