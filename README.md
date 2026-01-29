@@ -1,4 +1,4 @@
-# ✨ "A mirror never lies… it only shows what you refuse to see."
+✨ "A mirror never lies… it only shows what you refuse to see."
 
 <!-----
 
