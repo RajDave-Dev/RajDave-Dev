@@ -1,5 +1,7 @@
 ✨ "A mirror never lies… it only shows what you refuse to see."
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RajDave-Dev&theme=cobalt&hide_border=true&border_radius=8&background=45%2C000000%2C010115)](https://git.io/streak-stats)
+
 <!-----
 
 ### 🌐 Connect with me
